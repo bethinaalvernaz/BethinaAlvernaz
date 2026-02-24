@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👩🏻‍💻 Bethina Alvernaz
 
-<!--
-**bethinaalvernaz/BethinaAlvernaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Análise de Dados | Fraude | Customer Experience`**
 
-Here are some ideas to get you started:
+Me chamo Bethina Alvernaz, tenho 32 anos e sou de Vila Velha/ES. Tenho mais de 3 anos de experiência em Customer Experience em fintech, com foco em Prevenção a Fraudes, atuando na análise de transações, identificação de padrões e investigação de comportamentos suspeitos.
+Atualmente, faço tecnólogo de Banco de Dados na Descomplica e venho me aprofundando em SQL, Power BI, Excel e métricas de negócio, com foco em transformar dados em insights para eficiência operacional, mitigação de riscos e melhoria da experiência do cliente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/bethinaalvernaz/">
+        <img 
+            alt="LinkedIn" 
+            title="LinkedIn" 
+            src="https://www.linkedin.com/in/bethinaalvernaz/"
+        />
+
+---
+
+### Skill:
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+
+
+
