@@ -48,7 +48,7 @@ Atualmente, curso **tecnólogo em Banco de Dados** na Descomplica e **venho me a
 <img 
     align="left" 
     alt="Security"
-    title="Security" 
+    title="Security Checked" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/48/security-checked.png" width="40" 
