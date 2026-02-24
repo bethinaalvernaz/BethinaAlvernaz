@@ -20,11 +20,29 @@ Atualmente, faço **tecnólogo de Banco de Dados** na Descomplica e **venho me a
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="SQL"
+    title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Power BI"
+    title="Power BI" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" 
+/>
+
+<img 
+    align="left" 
+    alt="Excel"
+    title="Excel" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" 
 />
 
 
