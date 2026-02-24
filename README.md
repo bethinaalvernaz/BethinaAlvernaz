@@ -16,7 +16,7 @@ Atualmente, curso **tecnólogo em Banco de Dados** na Descomplica e **venho me a
 
 ---
 
-### Skill:
+### Skills:
 
 <img 
     align="left" 
@@ -43,6 +43,15 @@ Atualmente, curso **tecnólogo em Banco de Dados** na Descomplica e **venho me a
     width="30px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" 
+/>
+
+<img 
+    align="left" 
+    alt="Security"
+    title="Security" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/security-checked.png" width="40" 
 />
 
 
